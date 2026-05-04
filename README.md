@@ -102,3 +102,7 @@ This project has practical applications in various domains:
 This project successfully demonstrates the implementation of a machine learning model for predictive analysis in the real estate domain. The Linear Regression model provides a reliable baseline for predicting house prices based on available features. While the model achieves satisfactory performance, there is scope for improvement through advanced algorithms, feature engineering, and hyperparameter tuning. This project highlights the importance of data preprocessing, model evaluation, and visualization in building effective machine learning solutions.
 
 ## OUTPUT:
+
+<img width="733" height="689" alt="Image" src="https://github.com/user-attachments/assets/46706755-df18-4269-8c91-abcb3cc718bc" />
+
+<img width="710" height="681" alt="Image" src="https://github.com/user-attachments/assets/b55d72dc-43ad-4922-8758-b901aed8dbdc" />
